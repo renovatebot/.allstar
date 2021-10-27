@@ -1,3 +1,2 @@
 optConfig:
-  optInRepos:
-  - renovate
+  optOutStrategy: true
